@@ -6,13 +6,18 @@ The purpose of this analysis is to show how the discarded math and reading score
 * District Summary:
   * Original data:
   * ![DSdf](/Resources/DSdf.png)
-  * After replacing math and reading scores for 9th graders in Thomas High School with NaNs:*
+  * After replacing math and reading scores for 9th graders in Thomas High School with NaNs:
   ![NewDSdf](/Resources/NewDSdf.png)
 
 The district summary is affected after removing math and reading scores for 9th graders in Thomas High School. the Overall passing percentage, math passing percentace, reading passing percentage, and avergae math scores dropped.
 
 *School Summary
-How is the school summary affected?
+ * Original data:
+ ![SSdf](/Resources/SSdf.png)
+ * After replacing math and reading scores for 9th graders in Thomas High School with NaNs:
+ ![NewSSdf](/Resources/NewSSdf.png)
+ 
+The school summary affected?
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 How does replacing the ninth-grade scores affect the following:
 Math and reading scores by grade
