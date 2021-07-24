@@ -4,7 +4,10 @@ The purpose of this analysis is to show how the discarded math and reading score
 
 ## Results:
 * District summary:
-
+**orginal data:**
+![DSdf](/Resources/DSdf.png)
+**After replacing math and reading scores for 9th graders in Thomas High School with NaNs:**
+![NewDSdf](/Resources/NewDSdf.png)
 
 Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
